@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Лабораторная 1</title>
+    <title>Лабораторная 2</title>
     <link rel="icon" href="https://cdn.iconscout.com/icon/premium/png-256-thumb/orthodox-cross-742265.png"/>
     <link rel="stylesheet" type="text/css" href="styles.css"/>
 </head>

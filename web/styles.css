@@ -189,11 +189,11 @@ button, select, input:focus{
     background-color: yellow;
     text-align: center;
 }
-.result_php td{
+.result td{
     border: solid 1px white;
     border-collapse: collapse;
 }
-.result_php{
+.result{
     text-align: center;
     background-color: #ffbe52;
 }
